@@ -1,3 +1,3 @@
 # AICAMP-text2image
 
-This is a report on generative AI techniques for text2image. It was done as a Project Work in NLP and as part of the assignment of the AICAMP initiative.
+This is my work on generative AI techniques for text2image. It was done as a Project Work in NLP and as part of the of the AICAMP initiative. It contains both the report paper and the presentation slides we presented at UCY Cyprus in June 2023.
